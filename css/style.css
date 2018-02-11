@@ -1,0 +1,17 @@
+body {
+    /*background-color: #494f52; */
+    background-image: radial-gradient(#494f52 20%, #404040 80%);
+}
+
+#main-content {
+    background-color: white;
+    margin-top: 5%;
+    min-height: 600px;
+    border-radius: 15px 15px 15px 15px;
+    padding: 1%;
+    box-shadow: 5px 5px 15px #2d2d2d;
+}
+
+#main-title {
+    text-align: center;
+}
